@@ -44,4 +44,4 @@ Download and source `npms.plugin.zsh` in your shell config.
 
 ### npms
 
-<img width="842" alt="Screenshot" src="https://user-images.githubusercontent.com/208544/75457315-74733b80-59d0-11ea-811a-268373d0a00f.png">
+[![npms](https://asciinema.org/a/307422.svg)](https://asciinema.org/a/307422)
